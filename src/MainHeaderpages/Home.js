@@ -5,7 +5,7 @@ import Layer from '../components/Layers.js';
 import AboutUs from '../components/AboutUs.js';
 import Culture from '../components/Culture.js';
 import Footer from '../components/Footer.js';
-import DynamicPage from '../DynamicPage.jsx';
+//import DynamicPage from '../DynamicPage.jsx';
 import Slider from '../components/Slider.js'
 
 import img40 from '../components/images/img40.jpg';
@@ -122,7 +122,7 @@ function Home(){
        
        <AboutUs />
        
-       <DynamicPage />
+       
 
        <Culture />
 
