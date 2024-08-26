@@ -1,0 +1,24 @@
+
+#DynamicPageparent{
+    width: 100%;
+    background-color: black;
+    color: white;
+    height: fit-content ;
+    text-align: center;
+    font-size: 40px;
+}
+
+#time{
+    font-size: 70px;
+}
+
+#time h1{
+    font-size: 100px;
+    margin: 50px;
+}
+
+
+h1{
+    display: inline-block;
+
+}

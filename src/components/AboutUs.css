@@ -1,0 +1,45 @@
+.text{
+    color: #000;
+    word-spacing: 5px;
+    line-height: 3cap;
+    word-wrap:break-word;
+    font-weight: bold;
+  }
+  #textParent{
+    background-color:antiquewhite;
+    padding: 25px;
+  }
+  #text{
+    word-spacing: 25px;
+  }
+  #map{
+    padding: 3% 10%;
+  }
+  #table{
+    border: 5px black;
+    border-collapse: collapse;
+    height: 200px;
+    width: 40%;
+    margin: 5%;
+    font-size: 20px;
+  }
+  caption{
+    color: black;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+    caption-side: top ;
+  }
+  #AboutUsparent{
+    background-color:aquamarine;
+    padding: 50px;
+    overflow:scroll;
+    max-height: 700px;
+  }
+  #AboutUsHeader{
+    color:aliceblue;
+    height: 150px;
+    background-color: black;
+    text-align: center;
+    padding: 40px;
+}

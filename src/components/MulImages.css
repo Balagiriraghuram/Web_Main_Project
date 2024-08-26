@@ -1,0 +1,22 @@
+
+#imgContainer{
+    display: grid;
+    height: 800px;
+    width: 100%;
+    background-color: aqua;
+    grid-template-columns: 1fr 2fr;
+    
+}
+
+#ver {
+    height: 800px;
+  
+}
+#ver img{
+    height: 800px;
+}
+
+
+
+
+

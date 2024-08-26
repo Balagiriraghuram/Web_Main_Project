@@ -1,0 +1,27 @@
+
+#CultureHeader{
+    color:aliceblue;
+    height: 150px;
+    background-color: black;
+    text-align: center;
+    padding: 40px;
+}
+
+#CultureParent{
+    background-color:aquamarine;
+    padding: 50px;
+    overflow:scroll;
+    max-height: 700px;
+    
+  }
+
+  .Culturetext{
+    color: #000;
+    word-spacing: 5px;
+    line-height: 3cap;
+    word-wrap:break-word;
+    font-weight: bold;
+  }
+  h2{
+    color:maroon;
+  }

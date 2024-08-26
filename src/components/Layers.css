@@ -1,0 +1,43 @@
+.Layer{
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+    display: flex;
+    align-items: center;
+    color: aliceblue;
+    justify-content: center;
+    font-size: 25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+  }
+  #frist{
+    background-color:blueviolet;
+    position: relative;
+    top:0px ;
+    left:0px;
+  }
+  #second{
+    background-color: green;
+    position: relative;
+    top:-125px ;
+    left:50px;
+  }
+  #third{
+    background-color: red;
+    position: relative;
+    top: -250px;
+    left: 110px;
+  }
+  #frouth{
+    background-color: orange;
+    position: relative;
+    top: -375px;
+    left: 160px;
+  }
+  .Layer:hover{
+    z-index: 2;
+  }
+  #parent{
+    max-height:150px;
+    display:inline-block;
+  }
